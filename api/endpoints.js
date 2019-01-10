@@ -26,3 +26,4 @@
     registerUrl:   util.format("http://user%s/register", domain),
   };
 }());
+// Test Commit
